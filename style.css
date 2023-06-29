@@ -19,7 +19,7 @@
 }
 .container{
     background-color:var(--VeryDarkBlue);
-    min-height: 100vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,7 +29,7 @@
 .card{
     background-color: var(--DarkBlue);
 
-    min-width: 400px;
+    min-width: 100px;
     max-width: 400px;
     padding: 25px;
     border-radius: 1rem;
